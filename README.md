@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Real-Estate Website.<br>🌱 I’m currently learning Data Structure And Algorithm , NodeJs/Express .<br>📫 How to reach me: pushkar.vikas8@yahoo.com<br>
+🔭 I’m currently working on Real-Estate Website.<br>🌱 I’m currently learning Data Structure And Algorithm , NodeJs/Express .<br>📫 How to reach me: vishankhbhardwaj7@gmail.com<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_vishankh_bhardwaj/?utm_source=ig_web_button_share_sheet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishankh Bhardwaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushkar.vikas8@yahoo.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_vishankh_bhardwaj/?utm_source=ig_web_button_share_sheet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishankh Bhardwaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishankhbhardwaj7@gmail.com) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
