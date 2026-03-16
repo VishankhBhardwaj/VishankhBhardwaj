@@ -1,9 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Real-Estate Website.<br>🌱 I’m currently learning Data Structure And Algorithm , NodeJs/Express .<br>📫 How to reach me: vishankhbhardwaj7@gmail.com<br>
-
+🔭 I'm currently working on Real-Estate Website.<br>🌱 I'm currently learning Data Structure And Algorithm , NodeJs/Express .<br>📫 How to reach me: vishankhbhardwaj7@gmail.com<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_vishankh_bhardwaj/?utm_source=ig_web_button_share_sheet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishankh Bhardwaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishankhbhardwaj7@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_vishankh_bhardwaj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishankh-Bhardwaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishankhbhardwaj7@gmail.com)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,7 +22,6 @@
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VishankhBhardwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VishankhBhardwaj&theme=dark&hide_border=false)<br/>
@@ -39,6 +37,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=VishankhBhardwaj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VishankhBhardwaj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishankhBhardwaj/VishankhBhardwaj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishankhBhardwaj/VishankhBhardwaj/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VishankhBhardwaj/VishankhBhardwaj/output/github-snake.svg" />
+</picture>
+
+---
+[![](https://visitcount.itsvg.in/api?id=VishankhBhardwaj&icon=0&color=0)](https://visitcount.itsvg.in)
