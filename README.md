@@ -1,49 +1,123 @@
-# 💫 About Me:
-🔭 I'm currently working on Real-Estate Website.<br>🌱 I'm currently learning Data Structure And Algorithm , NodeJs/Express .<br>📫 How to reach me: vishankhbhardwaj7@gmail.com<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vishankh%20Bhardwaj&fontSize=70&animation=fadeIn" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_vishankh_bhardwaj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishankh-Bhardwaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishankhbhardwaj7@gmail.com)
+<div align="center">
+  <h1>✨ Vishankh's Digital Realm: Where code meets creativity and AI meets execution. 💻</h1>
+  <p><strong>Full-Stack Developer | MERN & Next.js Enthusiast | MAIT Student</strong></p>
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VishankhBhardwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VishankhBhardwaj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishankhBhardwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VishankhBhardwaj&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VishankhBhardwaj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br />
 
 ---
 
-## 🐍 My Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishankhBhardwaj/VishankhBhardwaj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishankhBhardwaj/VishankhBhardwaj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VishankhBhardwaj/VishankhBhardwaj/output/github-snake.svg" />
-</picture>
+### 🧩 Profile Snapshot
+
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧭 Current Focus
+
+<ul>
+  <li>🖌️ Building responsive & modern web interfaces</li>
+  <li>🌐 Developing full-stack (MERN) applications</li>
+  <li>🧠 Practicing DSA for problem-solving</li>
+  <li>🔧 Strengthening backend with Node.js & Express</li>
+  <li>☁️ Exploring system design & scalability</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+### 📈 Growth Zone
+
+<ul>
+  <li>⚛️ Advanced React & Next.js concepts</li>
+  <li>🏗️ System design fundamentals</li>
+  <li>🧩 DSA for placements</li>
+  <li>🔐 Authentication & API structuring</li>
+  <li>🚀 Building production-ready projects</li>
+</ul>
+
+  </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧾 About Me
+
+<ul>
+  <li>🎓 B.Tech CSE student at MAIT</li>
+  <li>💼 Sponsorship & Finance @ Alumni Cell</li>
+  <li>🏋️‍♂️ Focused on fitness & discipline</li>
+  <li>🎯 Growth & placement oriented</li>
+  <li>🌃 Night-time productivity mode</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🎯 Beyond Code
+
+<ul>
+  <li>🖥️ Minimal & aesthetic setups</li>
+  <li>🎬 Anime & tech content</li>
+  <li>🌌 Space curiosity</li>
+  <li>🎧 Music & chill sessions</li>
+</ul>
+
+  </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VishankhBhardwaj&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💻 Technical Arsenal
+
+
+<img align="right" height="225" src="https://i.redd.it/n8agw6z2smyb1.gif" alt="coding gif" style="margin-left: 20px;" />
+
+| Category &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tools & Technologies &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :--- | :--- |
+| **AI & ML** | <img src="https://skillicons.dev/icons?i=py,c,cpp" height="35" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" height="35" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,mysql" height="35" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,sqlite" height="35" /> |
+
+<br clear="both">
+
+---
+
+### 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishankhBhardwaj&show_icons=true&theme=dracula&count_private=true&border_radius=10" height="170" />
+  <img src="https://streak-stats.demolab.com?user=VishankhBhardwaj&theme=dracula&border_radius=10" height="170" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishankhBhardwaj&theme=dracula&area=true&hide_border=false" width="95%" />
+</div>
+
+---
+
+### 🕹 Contribution Activity
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishankhBhardwaj/VishankhBhardwaj/output/pacman-contribution-graph-dark.svg">
+    <img alt="pacman graph" src="https://raw.githubusercontent.com/VishankhBhardwaj/VishankhBhardwaj/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<br />
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VishankhBhardwaj.VishankhBhardwaj" />
+</p>
