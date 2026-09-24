@@ -85,10 +85,10 @@
 
 | Category &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tools & Technologies &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| **AI & ML** | <img src="https://skillicons.dev/icons?i=py,c,cpp" height="35" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" height="35" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,mysql" height="35" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,sqlite" height="35" /> |
+| **AI & ML** | <img src="https://skillicons.dev/icons?i=py,c,cpp" height="35" align="middle" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="35" align="middle" /> <img src="https://img.shields.io/badge/LangGraph-005073?style=flat-square&logo=graphql&logoColor=white" height="35" align="middle" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" height="35" align="middle" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,mysql,redis" height="35" align="middle" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="35" align="middle" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,sqlite,docker" height="35" align="middle" /> |
 
 <br clear="both">
 
